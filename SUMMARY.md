@@ -2,8 +2,11 @@
 
 * [Introdutions](README.md)
 * [Updates](updates.md)
-* [Posts](posts.md)
+* [Posts](posts/README.md)
+  * [Learning Linguistics](posts/learning-linguistics.md)
+  * [The Best Bits](posts/the-best-bits.md)
 * [Experiments and Exampes](experiments-and-exampes.md)
 * [Reviews](reviews.md)
-* [Sources](sources.md)
+* [Bibliogrophy](sources.md)
+* [Other Websites](other-websites.md)
 
