@@ -14,5 +14,3 @@ description: Maybe where latest posts appear?
 
 * Nothing..
 
-
-
