@@ -2,7 +2,7 @@
 description: Maybe where latest posts appear?
 ---
 
-# Updates
+# The Annals
 
 ## 10/07/2018
 

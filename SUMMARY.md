@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introdutions](README.md)
-* [Updates](updates.md)
+* [The Annals](updates.md)
 * [Posts](posts/README.md)
   * [Learning Linguistics](posts/learning-linguistics.md)
   * [The Best Bits](posts/the-best-bits.md)
