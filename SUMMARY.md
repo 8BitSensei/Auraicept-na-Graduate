@@ -5,7 +5,7 @@
 * [Posts](posts/README.md)
   * [Learning Linguistics](posts/learning-linguistics.md)
   * [The Best Bits](posts/the-best-bits.md)
-* [Experiments and Exampes](experiments-and-exampes.md)
+* [Experiments and Examples](experiments-and-exampes.md)
 * [Reviews](reviews.md)
 * [Bibliogrophy and Sources](sources.md)
 * [Other Websites](other-websites.md)
