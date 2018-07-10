@@ -7,6 +7,6 @@
   * [The Best Bits](posts/the-best-bits.md)
 * [Experiments and Exampes](experiments-and-exampes.md)
 * [Reviews](reviews.md)
-* [Bibliogrophy](sources.md)
+* [Bibliogrophy and Sources](sources.md)
 * [Other Websites](other-websites.md)
 
