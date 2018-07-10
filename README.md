@@ -10,5 +10,5 @@ The purpose of this blog is primarily to learn. I'll be learning about History, 
 
 And apparently, you're coming along.
 
-
+![The Fianna from The High Deeds of Finn MacCool illustrated by Michael Charlton 1967](.gitbook/assets/the-fianna.jpg)
 
