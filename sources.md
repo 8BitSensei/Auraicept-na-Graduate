@@ -3,10 +3,10 @@
 ## Primary Sources
 
 * Amra Choluim Chille - c. 598
-* De mirabilibus sacrae scripturae - c. 655
 * Moen Oen - c. 600
 * Labraid Loingseach praise - c. 600
 * Auraicept na n-Éces - c. 650 +
+* De mirabilibus sacrae scripturae - c. 655
 * Brigit Bé Bithmaith - c. 656
 * Echtrae Chonnlai - c. 688 to 750 ?
 * Tírechán's Collections - c. 690
