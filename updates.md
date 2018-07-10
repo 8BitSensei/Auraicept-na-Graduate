@@ -8,9 +8,9 @@ description: Maybe where latest posts appear?
 
 ### New Entries
 
-* Added this updates page?
+* Filled out various \[ages for the future, added sources
 
 ### Changes
 
-* Nothing..
+* Null
 
