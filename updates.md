@@ -4,13 +4,13 @@ description: Maybe where latest posts appear?
 
 # The Annals
 
+## 11/07/2018
+
+* Added more sources.
+
 ## 10/07/2018
 
-### New Entries
+* Filled out various pages for the future such as Learning Linguistics, added sources.
 
-* Filled out various \[ages for the future, added sources
 
-### Changes
-
-* Null
 
