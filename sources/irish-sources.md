@@ -1,6 +1,10 @@
-# Bibliogrophy and Sources
+# Irish Sources
 
-## Primary Sources
+## Archaeology
+
+## Inscription
+
+## Literature
 
 * Patrick's Epistola - c. 450 to 490
 * Patrick's Confessio - c. 460 to 490
@@ -39,8 +43,4 @@
 * Altrom tigi dá medar - c. 1400
 * Oidheadh Chloinne Tuireann - c. 1500
 * Annals of the Four Masters - c. 1632 to 1636
-
-## Secondary Sources
-
-## Further Reading
 
