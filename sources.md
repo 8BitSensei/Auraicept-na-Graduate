@@ -2,12 +2,17 @@
 
 ## Primary Sources
 
-* Amra Choluim Chille - c. 598
+* Patrick's Epistola - c. 450 to 490
+* Patrick's Confessio - c. 460 to 490
+* Amra Choluim Chille - c. 598 ?
 * Moen Oen - c. 600
 * Labraid Loingseach praise - c. 600
 * Auraicept na n-Éces - c. 650 +
 * De mirabilibus sacrae scripturae - c. 655
 * Brigit Bé Bithmaith - c. 656
+* Conailla Medb míchuru - Around c. 665
+* Ba mol Mídend midlaige - Around c. 665
+* Cú-cen-máthair - Around c. 665
 * Echtrae Chonnlai - c. 688 to 750 ?
 * Tírechán's Collections - c. 690
 * Immram Brain - c. 690 - 750
@@ -16,8 +21,8 @@
 * Baile Chuinn Chétchathaig - c. 720
 * Compert ConChullain - c. 725
 * Baíle in Scail - c. 800 to 900
-* Tochmarc Étaíne c. 800 - 1000
-* Historia Britonum c. 829
+* Tochmarc Étaíne - c. 800 - 1000
+* Historia Britonum - c. 829
 * Caith Maige Tuired - c. 875
 * The Lament for Treasach, son of Becan, chief of Ui Bairche Maighe - c.884
 * Can mBunadas na nGael - c. 884
