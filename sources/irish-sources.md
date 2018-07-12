@@ -8,6 +8,7 @@
 
 * Patrick's Epistola - c. 450 to 490
 * Patrick's Confessio - c. 460 to 490
+* The First Synod of Patrick - c. 6th Century Probably ?
 * Amra Choluim Chille - c. 598 ?
 * Moen Oen - c. 600
 * Labraid Loingseach praise - c. 600
