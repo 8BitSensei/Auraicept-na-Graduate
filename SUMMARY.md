@@ -5,7 +5,6 @@
 * [Posts](posts/README.md)
   * [Learning Linguistics](posts/learning-linguistics/README.md)
     * [Consonants, Vowels, and IPA](posts/learning-linguistics/consonants-vowels-and-ipa.md)
-  * [The Best Bits](posts/the-best-bits.md)
   * [Scéalta](posts/journeys.md)
 * [Experiments and Examples](experiments-and-exampes.md)
 * [Reviews](reviews.md)

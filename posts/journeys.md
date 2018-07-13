@@ -1,8 +1,12 @@
 # Scéalta
 
-Though I like to write myself I'm really not very good, so here I'll practice until my writing is witty and my imagination is imaginative. Some of these scéalta will be big, some small, all of them will be  journeys though, to visit historic sites, museums, beautiful landscapes, or just a little bit of interesting  dinnseanchas. 
+Though I like to write myself I'm really not very good, so this is where I'll practice my writing. Sharing travels I take or just some of the best and oddest bits of Celtic literature. Some of these scéalta will be big, some small, all of them will be  journeys though, to visit historic sites, museums, beautiful landscapes, or just a little bit of interesting  dinnseanchas. 
 
-![visitsnowdonia.info - Ll&#x177;n Peninsula, Snowdonia National Park and Cambrian Coastline](../.gitbook/assets/700-267-610x233-castell-dolbadarn-castle.jpg)
+
+
+![](../.gitbook/assets/photo-1518576725813-ea8c8b91b014.jpg)
+
+> "The heat of the fire and the air and the seething of the ground aided the water so that the pool that was in the middle of the house turned into a worm, and after that the worm became a purple fly. " - Tochmarc Étaíne
 
 
 
