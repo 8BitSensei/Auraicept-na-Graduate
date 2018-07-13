@@ -14,5 +14,5 @@
   * [Continental Sources](sources/continental-sources.md)
   * [Foreign Sources](sources/foreign-sources.md)
   * [Reading List](sources/reading-list.md)
-* [Other Websites](other-websites.md)
+* [Other Websites and Resources](other-websites.md)
 
