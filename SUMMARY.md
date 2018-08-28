@@ -8,6 +8,7 @@
     * [Categorisation and Structure](posts/learning-linguistics/week-3.md)
     * [Linguistic hiatus](posts/learning-linguistics/linguistic-hiatus.md)
   * [Scéalta](posts/journeys.md)
+  * [Programming](posts/programming.md)
 * [Experiments and Examples](experiments-and-exampes.md)
 * [Reviews](reviews.md)
 * [Bibliogrophy and Sources](sources/README.md)
