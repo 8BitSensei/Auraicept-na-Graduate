@@ -1,4 +1,4 @@
-# Week 3
+# Categorisation and Structure
 
 **Morphology:** The study of the internal structures of words.  
 **Syntax:** The study of sentence structure.  
