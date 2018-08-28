@@ -23,13 +23,29 @@ description: >-
 
 ### Current Projects
 
-### Resources
+* [ChronHib - A Probabilistic Chronological Framework for Dating Early Irish Language Developments and Literature](https://www.maynoothuniversity.ie/chronologiconhibernicum)
+
+### Research Resources
 
 * [Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs - Historic Environment Viewer](http://webgis.archaeology.ie/historicenvironment/)
 * [The Celtic Literature Collective - Mary Jones](http://www.maryjones.us/ctexts/)
 *  [Ogham in 3D](https://ogham.celt.dias.ie/index.php?lang=en)
 * [Atlas of Hillforts of Britain and Ireland](https://hillforts.arch.ox.ac.uk/)
 * [eDIL - Electronic Dictionary of the Irish Language](http://www.dil.ie/)
+* [JSTOR - Journals, Primary Sources, and Books](https://www.jstor.org/)
+* [Sci-Hub - Provides \(less than legal\) access to research papers](https://sci-hub.tw/)
+* [LibGen -  Search engine for articles and books on various topics](http://libgen.io/)
+* [Stack Echange - Q&A Communities](https://stackexchange.com/)
+* [DAIR - DIAS Access to Institutional Repository](https://dair.dias.ie/information.html)
+
+### Technical Resources
+
+* [editor.swagger](https://swagger.io/tools/swagger-editor/)
+* [API Style book](http://apistylebook.com/blog/)
+* [API Handyman](https://apihandyman.io/)
+* [GitHub](https://github.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 
 
 
