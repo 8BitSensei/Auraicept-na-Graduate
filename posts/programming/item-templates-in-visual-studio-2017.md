@@ -1,3 +1,7 @@
+---
+description: A super simple guide to get started
+---
+
 # Item Templates in Visual Studio 2017
 
 Where I work the bulk of my time is spent implementing Server processes, and API calls, you know, getters, setters, etc. But I've noticed that a large amount of time spent, especially when I was newer, was on writing out the exact same stuff, mainly setting up tests, which apart from a few function internals are largely the same.
