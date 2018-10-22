@@ -25,6 +25,7 @@
 * Anbthine mór ar muig Lir - c. 707
 * Baile Chuinn Chétchathaig - c. 720
 * Compert ConChullain - c. 725
+* Aithbe dam-se bés mora -  c. 775–825.
 * Baíle in Scail - c. 800 to 900
 * Tochmarc Étaíne - c. 800 - 1000
 * Caith Maige Tuired - c. 875
