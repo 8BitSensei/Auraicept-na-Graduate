@@ -1,6 +1,10 @@
-# Irish Sources
+---
+description: >-
+  This is a rough chronology of literature from Ireland, a work in progress it
+  is missing sources and massive amounts of literary works.
+---
 
-## Archaeology
+# Irish Sources
 
 ## Inscription
 
