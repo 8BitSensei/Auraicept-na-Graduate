@@ -27,8 +27,9 @@ description: >-
 
 ### Research Resources
 
+* Mary Jones' Celtic Literature Collective - This is currently down due to Internal Server Issues and Malicious Penetration, I've spoken to Jones and they're not sure when/if it'll be back up.
+* [CELT - Corpus of Electronic Texts](https://celt.ucc.ie/publishd.html)
 * [Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs - Historic Environment Viewer](http://webgis.archaeology.ie/historicenvironment/)
-* [The Celtic Literature Collective - Mary Jones](http://www.maryjones.us/ctexts/)
 *  [Ogham in 3D](https://ogham.celt.dias.ie/index.php?lang=en)
 * [Atlas of Hillforts of Britain and Ireland](https://hillforts.arch.ox.ac.uk/)
 * [eDIL - Electronic Dictionary of the Irish Language](http://www.dil.ie/)
