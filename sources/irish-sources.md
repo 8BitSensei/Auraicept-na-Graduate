@@ -25,6 +25,7 @@ description: >-
 * Echtrae Chonnlai - c. 688 to 750 ?
 * Tírechán's Collections - c. 690
 * Immram Brain - c. 690 - 750
+* Audacht Morainn - c. 700 'ish
 * Dé gábail an t-sida c. 700 +
 * Anbthine mór ar muig Lir - c. 707
 * Baile Chuinn Chétchathaig - c. 720
@@ -43,6 +44,7 @@ description: >-
 * Dindshenchus  Érenn - c. 1050 +
 * Leor Gaballa Míniugud - c. 1075
 * Cogad Gáedel re Gallaib - c. 1107 ?
+* Aislinge Meic Con Glinne - c. 1175 - 1215
 * Acallam na Senórach - Late Eleventh to c. 1210
 * Mór a bfearg a rí Saxon - c. 1358
 * Altrom tigi dá medar - c. 1400
