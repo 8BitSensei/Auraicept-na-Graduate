@@ -15,8 +15,6 @@
 * [Sources](sources/README.md)
   * [Irish Sources](sources/irish-sources.md)
   * [British Sources](sources/british-sources.md)
-  * [Continental Sources](sources/continental-sources.md)
-  * [Foreign Sources](sources/foreign-sources.md)
 * [Bibliography](bibliography/README.md)
   * [Books](bibliography/books.md)
   * [Papers](bibliography/papers.md)

@@ -10,6 +10,9 @@
 * The Text of Zosimus' Historia Nova - c. Early 500s
 * De Excidio et Conquestu Britanniae - c. 587'ish
 * Historia Britonum - c. 829
+* Armes Prydein - c. 940'ish
 * Historia Regum Britanniae - c. 1138
 * Vita Merlini - c. 1151
+
+
 
