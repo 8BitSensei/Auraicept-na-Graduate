@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introdutions](README.md)
-* [The Annals](updates.md)
 * [Posts](posts/README.md)
   * [Learning Linguistics](posts/learning-linguistics/README.md)
     * [Consonants, Vowels, and IPA](posts/learning-linguistics/consonants-vowels-and-ipa.md)
