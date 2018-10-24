@@ -7,8 +7,9 @@
 * Pelagius's letter  to Pope Innocent I and his  Confession Of Faith - c. 417
 * Patrick's Epistola - c. 450 to 490
 * Patrick's Confessio - c. 460 to 490
+* The Text of Zosimus' Historia Nova - c. Early 500s
 * De Excidio et Conquestu Britanniae - c. 587'ish
 * Historia Britonum - c. 829
-*  _Historia Regum Britanniae - c._ 1138
-* _Vita Merlini - c._ 1151
+* Historia Regum Britanniae - c. 1138
+* Vita Merlini - c. 1151
 
