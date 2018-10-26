@@ -1,5 +1,7 @@
 # Foreign Sources
 
+## Literature
+
 * Caesar, Gallic War - 58 - 49 BCE
 * Cicero, Letters to Quintus II - 54 BCE
 * Virgil, Eclogues I - 44 to 38 BCE
