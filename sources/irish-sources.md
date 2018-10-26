@@ -6,8 +6,6 @@ description: >-
 
 # Irish Sources
 
-## Inscription
-
 ## Literature
 
 * Patrick's Epistola - c. 450 to 490
