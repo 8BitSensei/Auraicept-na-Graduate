@@ -19,6 +19,8 @@
 * Nemesianus, The Cynegetica - c.283 to 284 
 * Historia Augusta: Hadrian XVI - c.350 to 400 
 * Claudian, On the Consulship of Stilicho II - c.368 to 404 
+* Ausonius, On one Silvius "Good" Who was a Briton - c. 382
+* Rutilius Namatianus , A Voyage Home to Gaul - c. 417 
 * The Text of Zosimus' Historia Nova - c. Early 500s
 * Procopius, History of the Wars VIII - c.538 to 544 
 
