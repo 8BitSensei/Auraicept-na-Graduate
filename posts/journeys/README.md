@@ -4,7 +4,7 @@ Though I like to write myself I'm really not very good, so this is where I'll pr
 
 
 
-![](../.gitbook/assets/photo-1518576725813-ea8c8b91b014.jpg)
+![](../../.gitbook/assets/photo-1518576725813-ea8c8b91b014.jpg)
 
 > "The heat of the fire and the air and the seething of the ground aided the water so that the pool that was in the middle of the house turned into a worm, and after that the worm became a purple fly. " - Tochmarc Étaíne
 
