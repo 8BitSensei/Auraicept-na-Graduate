@@ -12,8 +12,7 @@ description: >-
 * Patrick's Confessio - c. 460 to 490
 * The First Synod of Patrick - c. 6th Century Probably ?
 * Amra Choluim Chille - c. 598 ? \(I'm largely suspicious of this date\)
-* Moen Oen - c. 600
-* Labraid Loingseach praise - c. 600
+* The Leinster dynastic poems - c. Early 7th Century
 * Auraicept na n-Éces - c. 650 +
 * De mirabilibus sacrae scripturae - c. 655
 * Brigit Bé Bithmaith - c. 656
