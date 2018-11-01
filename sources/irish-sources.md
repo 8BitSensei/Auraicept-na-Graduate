@@ -11,7 +11,7 @@ description: >-
 * Patrick's Epistola - c. 450 to 490
 * Patrick's Confessio - c. 460 to 490
 * The First Synod of Patrick - c. 6th Century Probably ?
-* Amra Choluim Chille - c. 598 ?
+* Amra Choluim Chille - c. 598 ? \(I'm largely suspicious of this date\)
 * Moen Oen - c. 600
 * Labraid Loingseach praise - c. 600
 * Auraicept na n-Éces - c. 650 +
@@ -22,28 +22,29 @@ description: >-
 * Cú-cen-máthair - Around c. 665
 * Echtrae Chonnlai - c. 688 to 750 ?
 * Tírechán's Collections - c. 690
+* Muirchú’s Vita sancti Patricii - c. Late 7th Century
 * Immram Brain - c. 690 - 750
 * Audacht Morainn - c. 700 'ish
-* Dé gábail an t-sida c. 700 +
+* Dé gábail an t-sida c. 700 \[+ later additions\]
 * Anbthine mór ar muig Lir - c. 707
 * Baile Chuinn Chétchathaig - c. 720
 * Compert ConChullain - c. 725
-* Aithbe dam-se bés mora -  c. 775–825.
+* Aithbe dam-se bés mora -  c. 775 to 825.
 * Baíle in Scail - c. 800 to 900
-* Tochmarc Étaíne - c. 800 - 1000
-* Caith Maige Tuired - c. 875
+* Tochmarc Étaíne - c. 800 to 1000
+* Caith Maige Tuired - c. 875 \[+ later addition of the beginning paragraph\]
 * The Lament for Treasach, son of Becan, chief of Ui Bairche Maighe - c.884
 * Can mBunadas na nGael - c. 884
 * Lament for Ceallach mac Flannaghan, King of Brega - c. 890
-* Sanas Cormaic - c. 900 +
+* Sanas Cormaic - c. 900 \[+ later additions\]
 * Saltair na Rann - c. 988
-* Lebor Bretnach - c. 1000 +
-* Teach suain na horchra an aird tiar - c. 1027-28 \(no later than 1048\)
-* Dindshenchus  Érenn - c. 1050 +
+* Lebor Bretnach - c. 1000 \[+ later additions\]
+* Teach suain na horchra an aird tiar - c. 1027 to 28 \(no later than 1048\)
+* Dindshenchus  Érenn - c. 1050 \[+ later additions\]
 * Leor Gaballa Míniugud - c. 1075
 * Cogad Gáedel re Gallaib - c. 1107 ?
-* Aislinge Meic Con Glinne - c. 1175 - 1215
-* Acallam na Senórach - Late Eleventh to c. 1210
+* Aislinge Meic Con Glinne - c. 1175 to 1215
+* Acallam na Senórach - Late 11th to 1210
 * Mór a bfearg a rí Saxon - c. 1358
 * Altrom tigi dá medar - c. 1400
 * Oidheadh Chloinne Tuireann - c. 1500
