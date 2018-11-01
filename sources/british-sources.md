@@ -9,6 +9,7 @@
 * Pelagius's letter  to Pope Innocent I and his  Confession Of Faith - c. 417
 * Patrick's Epistola - c. 450 to 490
 * Patrick's Confessio - c. 460 to 490
+* Gildas, Fragmentae and Poenitentiae - c. 580's
 * De Excidio et Conquestu Britanniae - c. 587'ish
 * Historia Britonum - c. 829
 * Armes Prydein - c. 940'ish
