@@ -35,6 +35,7 @@ description: >-
 * The Lament for Treasach, son of Becan, chief of Ui Bairche Maighe - c.884
 * Can mBunadas na nGael - c. 884
 * Lament for Ceallach mac Flannaghan, King of Brega - c. 890
+* Reicne Fothaid Canainne - c. Late 9th Century?
 * Sanas Cormaic - c. 900 \[+ later additions\]
 * Saltair na Rann - c. 988
 * Lebor Bretnach - c. 1000 \[+ later additions\]
